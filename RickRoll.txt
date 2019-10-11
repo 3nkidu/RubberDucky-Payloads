@@ -1,0 +1,23 @@
+REM author:3nkidu
+REM date made:10/11/19
+REM RickRoll using chromium and terminal
+REM This is my first script and i'm testing ideas
+
+REM This delay allows the computer to recognize rubberducky before it runs script
+DELAY 300
+REM CTRL-ALT t opens the terminal in linux
+CTRL-ALT t
+DELAY 200
+REM nohup allows the commands to be run after the terminal is exited
+STRING nohup chromium-browser && exit
+DELAY 200
+ENTER
+DELAY 500
+REM after delay the string is input into the browser address bar
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 200
+ENTER
+
+REM encoder commands is
+REM java -jar duckencoder.jar -i [file-name.txt]
+REM duckencoder.jar should be in same dir as target file
