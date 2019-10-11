@@ -3,6 +3,8 @@ REM date made:10/11/19
 REM RickRoll using chromium and terminal
 REM This is my first script and i'm testing ideas
 
+REM TODO - Hide terminal when opened
+
 REM This delay allows the computer to recognize rubberducky before it runs script
 DELAY 300
 REM CTRL-ALT t opens the terminal in linux
