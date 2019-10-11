@@ -17,7 +17,3 @@ REM after delay the string is input into the browser address bar
 STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
 DELAY 200
 ENTER
-
-REM encoder commands is
-REM java -jar duckencoder.jar -i [file-name.txt]
-REM duckencoder.jar should be in same dir as target file
