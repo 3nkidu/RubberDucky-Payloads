@@ -7,7 +7,7 @@ REM TODO - Hide terminal when opened
 
 REM This delay allows the computer to recognize rubberducky before it runs script
 DELAY 300
-REM CTRL-ALT t opens the terminal in linux
+REM opens the terminal in linux
 CTRL-ALT t
 DELAY 200
 REM nohup allows the commands to be run after the terminal is exited
